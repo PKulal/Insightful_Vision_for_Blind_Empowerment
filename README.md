@@ -100,6 +100,23 @@ The project report includes:
 
 The report features flow charts, ERDs, and UML diagrams, and is available in Microsoft Word format.
 
+## Project Images
+<div align="center">
+  <h1 align="center">A Device which Communicate with Blind People</h1>  
+    <img src="BlindStick/Img/IMG-20240418-WA0002.jpg" alt="Insightful Vision for Blind Empowerment" />
+    
+</div>
+
+<div align="center">
+  <h1 align="center">Project Structure and Hardware Connections</h1>  
+  <div style="display: flex; justify-content: center;">
+    <img src="BlindStick/Img/IMG-20240414-WA0002.jpg" alt="Insightful Vision for Blind Empowerment" width="300" style="margin-right: 100px;"/>
+    <img src="BlindStick/Img/IMG-20240414-WA0003.jpg" alt="Insightful Vision for Blind Empowerment" width="300" style="margin-left: 100px;"/>
+  </div>
+</div>
+
+
+
 ## Authors
 
 - [@PKulal](https://github.com/PKulal)
